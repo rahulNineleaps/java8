@@ -1,0 +1,3 @@
+Any Interface having only single abstract method is called Functional interface , it can have default methods and static methods 
+but abstract method should be only one.
+if we give annotation @functionalInterface , compiler will throw error if we add more than one abstract methods in he interface 

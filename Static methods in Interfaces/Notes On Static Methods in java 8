@@ -1,0 +1,4 @@
+static method can be written in interface , 
+when we do that we won't be able to override the static methods in implemeting class 
+static method has to be called using interface , as it is not visible for the others .
+Code Later .....

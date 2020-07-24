@@ -1,0 +1,11 @@
+can a default method be protected --> need to check that 
+
+Learning -->
+Before Java 8 if we wanted to add methods in an interface , they would be abstract , and it had to be implemented by all
+the classes implementing the method . 
+by introducing default method , this issue is resolved . and backwards compatablity is not broken .
+But It introduces new problem , famously known as DDD(Deadly diamond of death )
+
+DDD can be resolved by the class by overriding the inherited method.
+
+Code shall be written ,later on .
